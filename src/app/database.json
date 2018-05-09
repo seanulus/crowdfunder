@@ -1,0 +1,55 @@
+{ "fundings": [{
+    "name": "Fund my vacation",
+    "starter": "Mr. Person",
+    "description": "I need to go on vacation! Make it happen.",
+    "raised": "100",
+    "goal": "1000",
+    "purpose": "This money is for me",
+    "reward": ["Postcards", "Keychains"]
+  },
+  {
+    "name": "Fund my new car 1",
+    "starter": "Mr. Whatever",
+    "description": "My car is broken and I need a new one",
+    "raised": "180",
+    "goal": "5000",
+    "purpose": "This money is for my new car",
+    "reward": ["Selfies", "Twitter Mentions"]
+ },
+ {
+   "name": "Fund my new car 2",
+   "starter": "Mr. Whatever",
+   "description": "My car is broken and I need a new one",
+   "raised": "2300",
+   "goal": "5000",
+   "purpose": "This money is for my new car",
+   "reward": ["Selfies", "Twitter Mentions"]
+ },
+ {
+   "name": "Fund my new car 3",
+   "starter": "Mr. Whatever",
+   "description": "My car is broken and I need a new one",
+   "raised": "1400",
+   "goal": "5000",
+   "purpose": "This money is for my new car",
+   "reward": ["Selfies", "Twitter Mentions"]
+ },
+ {
+   "name": "Fund my new car 4",
+   "starter": "Mr. Whatever",
+   "description": "My car is broken and I need a new one",
+   "raised": "500",
+   "goal": "5000",
+   "purpose": "This money is for my new car",
+   "reward": ["Selfies", "Twitter Mentions"]
+ },
+ {
+   "name": "Fund my new car 5",
+   "starter": "Mr. Whatever",
+   "description": "My car is broken and I need a new one",
+   "raised": "2000",
+   "goal": "5000",
+   "purpose": "This money is for my new car",
+   "reward": ["Selfies", "Twitter Mentions"]
+ }
+]}

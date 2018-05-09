@@ -1,0 +1,11 @@
+<h3>{{(fundingToDisplay | async)?.name}}</h3>
+<p>Started by: {{(fundingToDisplay | async)?.starter}}</p>
+<p>{{(fundingToDisplay | async)?.description}}</p>
+<p>Goal: ${{(fundingToDisplay | async)?.raised}}</p>
+<p>Goal: ${{(fundingToDisplay | async)?.goal}}</p>
+<p>Purpose: {{(fundingToDisplay | async)?.purpose}}</p>
+<p>Rewards: {{(fundingToDisplay | async)?.reward}}</p>
+<button (click)="fundProject()">Fund $20!</button>
+<label>Fund a specific amount</label>
+<input #fundAmount>
+<button (click)="fundSpecificAmount(fundAmount.value); fundAmount.value=''">Fund my amount!</button>
